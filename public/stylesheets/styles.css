@@ -1,0 +1,23 @@
+.top {
+    margin-top: 75px;
+}
+
+.top-sm {
+    margin-top: 20px;
+}
+
+.img-thumbnail img {
+    width: 100%;
+}
+
+.img-thumbnail {
+    padding: 0;
+}
+
+.img-thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
